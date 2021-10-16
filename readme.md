@@ -2,6 +2,24 @@ Justin Kreiner
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 1
+![alt text](./screenshots/activity1.png)
+
+## Activity 2-5
+
+Home Page:
+![alt text](./screenshots/home-page.png)
+
+Results Page:
+![alt text](./screenshots/results-page.png)
+
+Results Table:
+![alt text](./screenshots/results-table.png)
+
+## Activity 6
+
+The new results table is significantly more usable than the old one. By adding borders, it is clear which row and column each field belongs to. Also, the small addition that locks the table header fields will prevent the user from having to scroll up and down to match items to a particular header.
+
 # CARTE Education Pathways
 
 ## Description
